@@ -1,0 +1,8 @@
+/home/shrief/Desktop/task_4/build/CMakeFiles/edit_cache.dir
+/home/shrief/Desktop/task_4/build/CMakeFiles/rebuild_cache.dir
+/home/shrief/Desktop/task_4/build/src/CMakeFiles/program.dir
+/home/shrief/Desktop/task_4/build/src/CMakeFiles/edit_cache.dir
+/home/shrief/Desktop/task_4/build/src/CMakeFiles/rebuild_cache.dir
+/home/shrief/Desktop/task_4/build/library/CMakeFiles/WriteInFile.dir
+/home/shrief/Desktop/task_4/build/library/CMakeFiles/edit_cache.dir
+/home/shrief/Desktop/task_4/build/library/CMakeFiles/rebuild_cache.dir
